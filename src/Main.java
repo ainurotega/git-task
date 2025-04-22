@@ -10,5 +10,14 @@ public class Main {
         System.out.println("Hello guys");
         System.out.println("Hello guys");
         System.out.println("Hello guys");
+      //nothing here
     }
+// create empty java project
+// create repo in github
+// push your project there
+// create two branches from main
+// merge those two branches into main
+
+
+
 }
